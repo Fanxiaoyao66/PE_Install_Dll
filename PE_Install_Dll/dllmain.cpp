@@ -8,7 +8,7 @@
 #pragma comment(lib,"wininet.lib")
 
 #define DEF_BUF_SIZE (4096)
-#define DEF_URL L"https://docs.microsoft.com/en-us/windows/win32/api/shlobj/"
+#define DEF_URL L"https://blog.csdn.net/qq_41141246/article/details/115317336"
 #define DEF_INDEX_FILE L"index.html"
 HWND g_hWnd;
 
